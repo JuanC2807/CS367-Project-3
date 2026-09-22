@@ -1,0 +1,17 @@
+# Build output
+/obj/
+
+# Compiled executables
+/hiy
+/my_echo
+/my_pause
+/slow_cooker
+
+# Compiled files
+*.o
+*.a
+*.so
+
+# Misc
+.DS_Store
+*~
